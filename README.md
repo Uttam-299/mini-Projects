@@ -1,2 +1,3 @@
 # mini-Projects
-TO make small projects on java
+To make small projects on java
+
