@@ -32,6 +32,6 @@ public class cal_Percentage {
         double percentage = (total_obtained/totalSubjects_Marks)*100;
 
         System.out.println("percentage of  the subjects is " + percentage + "%");
-
+        sc.close();
     }
 }
