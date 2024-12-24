@@ -63,8 +63,7 @@ public class rock_Paper_game {
              else {
                 System.out.println("game tied !");
              }
-           
-
+            sc.close();
     }
     
 }
